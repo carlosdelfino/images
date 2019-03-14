@@ -1,5 +1,7 @@
 # Imagens para uso em meus sites
 
+Branch para o site Arduino Minas (arduinominas.github.io)
+
 Neste repositório são armazenados de forma estruturada (dentro possível) Imagens usadas nos meus sites.
 
 Com o tempo pretendo reestruturar as pastas para reduzir a redundância de arquivos. Assim a mesma imagem usada em cada site estará unificada aqui.
